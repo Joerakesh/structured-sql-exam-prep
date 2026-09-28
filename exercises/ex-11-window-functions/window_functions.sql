@@ -32,7 +32,7 @@ FROM sales;
 
 -- PERCENT_RANK
 SELECT employee, amount,
-       PERCENT_RANK() OVER (ORDER BY amount) AS percent_rank
+       PERCENT_RANK() OVER (ORDER BY amount) AS pct_rank
 FROM sales;
 
 -- NTILE
