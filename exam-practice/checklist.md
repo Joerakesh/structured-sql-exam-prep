@@ -1,6 +1,6 @@
 # Structured SQL Exam Checklist
 
-| # | Topic | Coverage |
+| # | Exam Topic | Coverage |
 |---|---|---|
 | 1 | Joins | INNER, LEFT, RIGHT, SELF, multi-table, FULL OUTER concept with UNION |
 | 2 | Subqueries | IN, EXISTS, NOT EXISTS, scalar, correlated, ANY, ALL |
